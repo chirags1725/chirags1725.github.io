@@ -8,10 +8,9 @@ export default function Navbar(props) {
   window.addEventListener("scroll", () => {
     if (window.scrollY > 15) {
       setChange("navbar change");
-      showBackground1(`bg-1 ${props.background}`);
+     
     } else {
       setChange("navbar");
-      showBackground1(`bg-1`);
     }
   });
   return (
@@ -32,10 +31,12 @@ export default function Navbar(props) {
             <li>
               <Link to="/contact_me">Contact Me</Link>
             </li>
+            <li>
+              <Link to="/ads">Ads</Link>
+            </li>
           </ul>
         </div>
       </div>
-      <div className={Background1}></div>
     </>
   );
 }

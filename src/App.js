@@ -4,6 +4,7 @@ import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import Portfolio from "./Components/Portfolio";
 import Contact from "./Components/Contact";
 import Home from "./Components/Home";
+import Ads from "./Components/Ads";
 
 
 function App() {
@@ -20,6 +21,9 @@ function App() {
           </Route>
           <Route path="/contact_me">
             <Contact />
+          </Route>
+          <Route path="/ads">
+            <Ads />
           </Route>
           <Route path="*">
             <div>404</div>

@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./app-debug.apk";
+import { Link } from 'react-router-dom';
 
 export default function Home() {
   const [Title, setTitle] = useState("Home");
@@ -14,9 +15,15 @@ export default function Home() {
 
   return (
     <>
+      <div className={`bg-1`}></div>
+
       <div className="PageTitle">
         <span className="Title">{Title}</span>
       </div>
     </>
+
+
+
+
   );
 }
