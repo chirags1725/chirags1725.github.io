@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 
 export default function Navbar(props) {
   const [Change, setChange] = useState("navbar");
-  const [Background1, showBackground1] = useState("bg-1");
 
   window.addEventListener("scroll", () => {
     if (window.scrollY > 15) {
