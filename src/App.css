@@ -180,4 +180,6 @@ body {
   background-attachment: fixed;
   background-position: center;
   mix-blend-mode: multiply;
+  position: relative;
+  border-radius: "20px";
 }

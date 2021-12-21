@@ -8,6 +8,20 @@ import Ads from "./Components/Ads";
 
 
 function App() {
+
+  const lst = [{
+    id:1,
+    desc:'hello'
+  },
+{
+  id:2,
+  desc:'hi'
+}]
+
+  for(var i=0; i<lst.length;i++){
+    console.log(lst[i].desc)
+  }
+
   return (
     <>
       <Router>
