@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./app-debug.apk";
 import logo from "./Image/2.jpg";
 import { Slide} from 'react-awesome-reveal'
+import AdSense from 'react-adsense';
 
 export default function Home() {
 
@@ -123,6 +124,14 @@ export default function Home() {
            
         />
         </Slide>
+        <AdSense.Google
+  client="6308049796077270"
+  slot='5574338884'
+  style={{ display: 'block' }}
+  format='auto'
+  // responsive='true'
+  layout="-f9+52+6z-e1+5b"
+/>
         <Slide direction="right">
         <div className="txt">Glucose : Glucose is an aldohexose and is also known as dextrose.
         Preparation of Glucose : (a) From sucrose (cane Sugar) : H 12 22 11 2 6
