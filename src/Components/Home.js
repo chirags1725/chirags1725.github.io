@@ -2,7 +2,6 @@ import { useState } from "react";
 import "./app-debug.apk";
 import logo from "./Image/2.jpg";
 import { Slide} from 'react-awesome-reveal'
-import AdUnit from './AdUnit.js'
 
 export default function Home() {
 
@@ -158,7 +157,6 @@ export default function Home() {
         dextrorotatory nature of the molecule.
         </div>
         </Slide>
-        <AdUnit></AdUnit>
       </div><div className="abt">
         <Slide left delay={1000}>
         <img
