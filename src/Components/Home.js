@@ -490,325 +490,90 @@ export default function Home() {
         </div>
         </Slide>
       </div>
-<p>Grammatical abbreviations are generally written in full or small caps to visually distinguish them from the translations of lexical words. For instance, capital or small-cap past (frequently abbreviated to pst) glosses a grammatical past-tense morpheme, while lower-case 'past' would be a literal translation of a word with that meaning. Similarly, (small) cap -down might be a locative suffix used in nominal inflections, prototypically indicating direction downward but possibly also used where it is not translatable as 'down' in English, whereas lower-case 'down' would be a direct English translation of a word meaning 'down'.[3] Not all authors follow this convention.
-Person-number-gender is often further abbreviated, in which case the elements are not small caps. E.g. 3ms or 3msg for 3sg.m, 2fp or 2fpl for 2pl.f, also 1di for 1du.incl and 1pe for 1pl.excl.[4][nb 2]
-Authors may more severely abbreviate glosses than is the norm, if they are particularly frequent within a text, e.g. ip rather than imm.pst for 'immediate past'. This helps keep the gloss graphically aligned with the parsed text when the abbreviations are longer than the morphemes they gloss. Such shortened forms may be ambiguous with other authors or texts are so are not presented as normative here. Glosses may also be less abbreviated than the norm if they are not common in a particular text, so as to not tax the reader, e.g. transtvzr for 'transitivizer' or subjunct for 'subjunctive'. At the extreme, glosses may not be abbreviated at all but simply written in small caps, e.g. complementizer, nontheme or downriver rather than comp, nth, dr.[5] Such long, obvious abbreviationse.g. in [6] have been omitted from the list below, but are always possible.
-A morpheme will sometimes be used as its own gloss. This is typically done when it is the topic of discussion, and the author wishes it to be immediately recognized in the gloss among other morphemes with similar meanings, or when it has multiple or subtle meanings that would be impractical to gloss with a single conventional abbreviation. For example, if a passage has two contrasting nominalizing suffixes under discussion, ɣiŋ and jolqəl, they may be glossed gn and jq, with the glosses explained in the text.[7] This is also seen when the meaning of a morpheme is debated, and glossing it one way or another would prejudice the discussion.
-Lexical morphemes are typically translated, using lower-case letters, though they may be given a grammatical gloss in small caps if they play a grammatical role in the text. Exceptions include proper nouns, which typically are not translated, and kinship terms, which may be too complex to translate. Proper nouns/names may simply be repeated in the gloss, or may be replaced with a placeholder such as "(name.f)" or "pn(f)" (for a female name). For kinship glosses, see the dedicated section below for a list of standard abbreviations.
-Lehmann recommends that abbreviations for syntactic roles not be used as glosses for arguments, as they are not morphological categories. Glosses for case should be used instead, e.g. erg or nom for A.[8] Morphosyntactic abbreviations are typically typeset as full capitals even when small caps are used for glosses,[9] and include A (agent of transitive verb), B (core benefactive),[10] D or I (core dative / indirect object),[11] E (experiencer of sensory verb),[12] G or R (goal or recipient – indirect object of ditransitive verb),[13] L (location argument),[14] O or P (patient of transitive verb), S (single argument of intransitive verb), SA (Sa) and SP or SO (Sp, So) (agent- and patient-like argument in split-S alignment),[15] Se and Sx (argument of equative/copular and existential verb),[11] Su (subject of v.t. or v.i.),[11] and T (theme – direct object of ditransitive verb).[14]
-These abbreviations are,</p>
-<p>Glosses for generic concepts like 'particle', 'infix', 'tense', 'object marker' and the like are generally to be avoided in favor of specifying the precise value of the morpheme.[8] However, they may be appropriate for historical linguistics or language comparison, where the value differs between languages or a meaning cannot be reconstructed, or where such usage is unambiguous because there is only a single morpheme (e.g. article or aspect marker) that can be glossed that way. When a more precise gloss would be misleading (for example, an aspectual marker that has multiple uses, or which is not sufficiently understood to gloss properly), but glossing it as its syntactic category would be ambiguous, the author may disambiguate with digits (e.g. asp1 and asp2 for a pair of aspect markers). Such pseudo-glossing may be difficult for the reader to follow.
-Authors also use placeholders for generic elements in schematicized parsing, such as may be used to illustrate morpheme or word order in a language. Examples include head or hd 'head'; root or rt 'root'; stem or st 'stem'; pref, prfx or px 'prefix'; suff, sufx or sx 'suffix'; clit, cl or encl '(en)clitic'; prep 'preposition' and pos or post 'postposition', png 'person–number–gender element' and tam 'tense–aspect–mood element' (also ng number–gender, pn person–number, ta tense–aspect, tame tense–aspect–mood–evidential) etc.[2][16] These are not listed below as they are not glosses for morphological values.
-Lists
-Nonabbreviated English words used as glosses are not included in the list below. Caution is needed with short glosses like at, by, to and up, which could potentially be either abbreviations or (as in these cases) nonabbreviated English prepositions used as glosses.
+<p>A blog (a truncation of "weblog")[1] is a discussion or informational website published on the World Wide Web consisting of discrete, often informal diary-style text entries (posts). Posts are typically displayed in reverse chronological order, so that the most recent post appears first, at the top of the web page. Until 2009, blogs were usually the work of a single individual,[citation needed] occasionally of a small group, and often covered a single subject or topic. In the 2010s, "multi-author blogs" (MABs) emerged, featuring the writing of multiple authors and sometimes professionally edited. MABs from newspapers, other media outlets, universities, think tanks, advocacy groups, and similar institutions account for an increasing quantity of blog traffic. The rise of Twitter and other "microblogging" systems helps integrate MABs and single-author blogs into the news media. Blog can also be used as a verb, meaning to maintain or add content to a blog.
 
-Transparent compounds of the glosses below, such as rempst or rem.pst 'remote past', a compound of rem 'remote' and pst 'past', are not listed separately.
+The emergence and growth of blogs in the late 1990s coincided with the advent of web publishing tools that facilitated the posting of content by non-technical users who did not have much experience with HTML or computer programming. Previously, a knowledge of such technologies as HTML and File Transfer Protocol had been required to publish content on the Web, and early Web users therefore tended to be hackers and computer enthusiasts. In the 2010s, the majority are interactive Web 2.0 websites, allowing visitors to leave online comments, and it is this interactivity that distinguishes them from other static websites.[2] In that sense, blogging can be seen as a form of social networking service. Indeed, bloggers not only produce content to post on their blogs but also often build social relations with their readers and other bloggers.[3] However, there are high-readership blogs which do not allow comments.
 
-Abbreviations beginning with n- (generalized glossing prefix for non-, in-, un-) are not listed separately unless they have alternative forms that are included. For example, npst non-past is not listed, as it is composable from n- non- + pst past. This convention is grounded in the Leipzig Glossing Rules.[2] Some authors use a lower-case n, for example nh for 'non-human'.[16]
+Many blogs provide commentary on a particular subject or topic, ranging from philosophy, religion, and arts to science, politics, and sports. Others function as more personal online diaries or online brand advertising of a particular individual or company. A typical blog combines text, digital images, and links to other blogs, web pages, and other media related to its topic. The ability of readers to leave publicly viewable comments, and interact with other commenters, is an important contribution to the popularity of many blogs. However, blog owners or authors often moderate and filter online comments to remove hate speech or other offensive content. Most blogs are primarily textual, although some focus on art (art blogs), photographs (photoblogs), videos (video blogs or "vlogs"), music (MP3 blogs), and audio (podcasts). In education, blogs can be used as instructional resources; these are referred to as edublogs. Microblogging is another type of blogging, featuring very short posts.
 
-Some sources are moving from classical lative (lat, -l) terminology to 'directional' (dir), with concommitant changes in the abbreviations. Other authors contrast -lative and -directive.[17]
+'Blog' and 'blogging' are now loosely used for content creation and sharing on social media, especially when the content is long-form and one creates and shares content on regular basis. So, one could be maintaining a blog on Facebook or blogging on Instagram.
 
-Some sources use alternative abbreviations to distinguish e.g. nominalizer from nominalization,[18] or shorter abbreviations for compounded glosses in synthetic morphemes than for independent glosses in agglutinative morphemes.[19] These are seldom distinct morphosyntactic categories in a language, though some may be distinguished in historical linguistics. They are not distinguished below, as any such usage tends to be idiosyncratic to the author.
+On February 16, 2011, there were over 156 million public blogs in existence. On February 20, 2014, there were around 172 million Tumblr[4] and 75.8 million WordPress[5] blogs in existence worldwide. According to critics and other bloggers, Blogger is the most popular blogging service used today. However, Blogger does not offer public statistics.[6][7] Technorati lists 1.3 million blogs as of February 22, 2014.[8]
+</p>
+<p>The term "weblog" was coined by Jorn Barger[9] on December 17, 1997. The short form, "blog", was coined by Peter Merholz, who jokingly broke the word weblog into the phrase we blog in the sidebar of his blog Peterme.com in April or May 1999.[10][11][12] Shortly thereafter, Evan Williams at Pyra Labs used "blog" as both a noun and verb ("to blog", meaning "to edit one's weblog or to post to one's weblog") and devised the term "blogger" in connection with Pyra Labs' Blogger product, leading to the popularization of the terms.[13]
 
-Punctuation and numbers
-Conventional Gloss	Variants	Meaning	Reference
--		separator for segmentable morphemes, e.g., Lezgian amuq’-da-č (stay-fut-neg) "will not stay"	[2]
-=	꞊, ‿	[optional in place of hyphen] separator for clitics, e.g., West Greenlandic palasi=lu niuirtur=lu (priest=and shopkeeper=and) "both the priest and the shopkeeper"	[2][20]
-.		when a morph is rendered by more than one gloss, the glosses are separated by periods, e.g., French aux chevaux (to.art.pl horse.pl) "to the horses"
-A period is not used between person and number, e.g. 1pl, 2sg, 1du, 3nsg (nonsingular).	[2]
-_		[optional in place of period] when the language of the gloss lacks a one-word translation, a phrase may be joined by underscores, e.g., Turkish çık-mak (come_out-inf) "to come out"
-With some authors, the reverse is also true, for a two-word phrase glossed with a single word.	[2][21]
-›	>, →, :	[optional in place of period] direction of polypersonal agreement in a single gloss, whether
-(a) possession (1s›sg means 1s possessor and singular possessum)
-or (b) transitivity (2›3 means 2 acts on 3, as in guny-bi-yarluga (2du›3sg-fut-poke) "(who) do you two want to spear?"
-A colon is used by some authors: 1s:sg, 2du:3sg-fut-poke.	[2][22][23][4]
-:		[optional in place of period] separates glosses where segmentation is irrelevant (morphemes may be segmentable, but author does not wish to separate them)	[2]
-;	:	[optional in place of period] separates glosses</p>
+Origins
+Before blogging became popular, digital communities took many forms including Usenet, commercial online services such as GEnie, Byte Information Exchange (BIX) and the early CompuServe, e-mail lists,[14] and Bulletin Board Systems (BBS). In the 1990s, Internet forum software created running conversations with "threads". Threads are topical connections between messages on a virtual "corkboard". From June 14, 1993, Mosaic Communications Corporation maintained their "What's New"[15] list of new websites, updated daily and archived monthly. The page was accessible by a special "What's New" button in the Mosaic web browser.
 
-<p>urac	pluractional (= vpl verbal plural)	[54][48][80][37][32]
-pm	predicate marker	[18]
-pn, propn, pr cn	proper noun/name, personal name (e.g. pn.det proper-noun determiner)	[79][21]
-PO		primary object	[8]
-po	patient-orientated verb	[53]
-podir	postdirective (= postlative)	[12]
-poel	postel	postelative case	[12]
-poess	poste, postess	postessive case ('after')	[12][50][56][17]
-pol		polite register	[33]
-pos	positive	[1]
-poss	pos, po, psr	possessive, possessor (2poss 2nd-person possessive; poss.cl possessive classifier)	[2][14][20][1]
-posb	possb, possib	possible, modal possibility	[58][76][55]
-possd	possessed	[23]
-post	po-	postlocative (behind). May be equivalent to postess or postl. Compounded for poste(ss) (poess), postl(at) (podir), postel (poel) etc. if a single morpheme, as post-ess, post-lat or post-dir, post-ela etc. if not.	[41][16][3][12]
-post, postp	postposition, postpositional case	[58]
-post	post-terminal aspect	[19]
-postl	podir, postlat, postdir	postlative case, or 'postdirective'	[12][17]
-pot	poten cn?	potential mood (cf. ver)	[33][8]
-pp	(a) predicative possessive particle;
-(b) present progressive;
-(c) past perfect;
-(d) pragmatic particle	[61][27][1][7]
-ppa	active perfect participle	[18]
-ppast	post-terminal past	[19]
-ppf	perfect participle	[21]
-ppfv	past perfective (= perfect)	[76]
-ppp	(a) past passive participle;
-(b) past perfect participle	[15][18]
-pprt	pp, ppt, [cn] ppart, pastp [cn]	passive participle, past participle	[80][10][77]
-pps	pseudo-passive	[47]
-pr	pragmatic (in pr.part pragmatic particle)	[1]
-prc	precedence	[47]
-prec		precative mood (requests)	[8]
-prec, precon	precondition (preca athematic precondition, prect thematic precondition)	[42][24]
-prec, pre	precise, precision	[25][21]
-pred		predicative affix, predicative	[2][12][23]
-predict	prediction	[88]
-prep		preposition, prepositional case	[33]
-pret	prt	preterite (= pfv.pst)	[2][1]
-prev	previous (in evidentials)	[19]
-preven	preventative	[19]
-prf	pft, pf, perf	perfect	[33][54][50][8][60][2]
-prfrm, perform	performative	[38][78]
-prior, pr	prior, preceding	[42][6]
-priv	prv, prvt	privative case	[8][50][16]
-pro	pn, prn, pron	pronominal base, (pro only) proform	[33][22][54][67]
-prob	pb	probabilitive	[89][19]
-procomp	procomplement	[19]
-prod	product verbalizer	[19]
-prog	prg, progr	progressive aspect	[2][67][99]
-proh	prh, prohib	prohibitive mood ('don't!')	[2][33][47][19]
-prol	prolat, prl	prolative case (= via)	[8][22][16]
-prol	prolonged action	[114]
-prop	propr	proprietive case (quality of having X)	[58][8][72][42][6]
-prop	proper-noun marker	[6][81]
-propos, prop	propositive mood (inclusive jussive)	[119][11]
-pros	prosec	prosecutive case ('across', 'along')	[120][78]
-prosp	pros, prsp cn?	prospective aspect or mood (ppros past prospective)	[8][94][56][7]
-prot		protasis	[89]
-prov	pro-verb	[10]
-prox	px, prx	proximal demonstrative; proximate (e.g. prox.imp proximate imperative)	[2][31][19][99]
-prp	property predication	[7]
-prs	pres, pr	present tense	[2][60][1]
-prsc	prescriptive	[61]
-prsv	presentative	[36]
-ps-	pseudo: psap pseudo-antipassive, pspass pseudo-passive	[28]
-ps	passing state	[25]
-ps	passé simple	[19]
-ps	undergoer (patient-role subject)	[4]
-psa	previous same agent of v.t. (pss previous same subject)	[67]
-pss	previous event, same subject of v.i. (psa previous same agent); pssi and psst previous event, same subject of v.i. and v.t.	[67][19]
-pssm, pssd	possessum (impersonal), possessed	[48][50]
-pssr	possessor	[64]
-pst	past, pa, ps, p, pas	past tense (e.g. pindef past indefinite, mpst modal past, spst simple past)	[2][53][1][19][32][7]
-pstn	past nominalization	[24]
-pst.pr	past/present (different readings on different word classes)	[31]
-pt	potent case inflection	[23]
-ptcl, prt, ptc, pt, ptl, pcl, part	particle
-(Lehmann (2004) recommends avoiding this and instead translating/glossing the meaning.),[8]
-particalizer	[58][33][77][12][13][47][41]
-ptcp	{part, pcp, ppl, ptp, pple, prtc, ptcpl, partic, particip, p	participle, participial (mood)	[2][33][11][8][13][41][26][47][100][21][18][78]
-pth	path	[21]
-ptv	prtv, par, part, prt, ptt, partve	partitive case	[33][8][13][60][35][19]
-punc	punct, pnc, pu, pncl, pct, pnct	punctual aspect, punctiliar	[6][58][8][14][38][25][35][36]
-prp	purp, pur	purposive case/converb (nprp non-purposive)	[35][2][99]
-pv	pf, pt, ov	patient/object voice/focus/trigger[is Starosta 'object focus' true focus, not voice?]	[81][7][83][82][71]
-pv	pivot form/nominal	[53]
-pv	possessive verbalizer	[21]
-pvb	prev, prv, pv	preverb	[22][58]
-pvp	post-verbal particle (only particle so glossed)	[95]
-px	possessive suffix	[57]
-q	qst, ques, quest, QP	question word or particle (= int)	[2][47][14][73]
-qm	quantity marker	[26]
-qu, qm, QM	question marker (usually = q)	[2][36][73]
-qual		qualifier	[68][54]
-quant	qnt	quantifier	[33][16][86]
-quot	quo, qt	quotative (quotative case, quotative mood, quotation marker)	[2][117][1]
-qv	quotative verb	[97]
-r	rational gender (thinking beings) (r.sg or rs rational singular, r.pl or rp rational plural)	[citation needed]
--r		reflexive (e.g. 3r 3rd-person reflexive)	[47]
-r-	relational (prefix on case abbreviation)	[24]
-r.ext, rt.ext	root extension	[16][6]
-r/a	realis/assertive	[23]
-ra	repeated action	[19]
-ra	relative agreement	[20]
-rar		raritive	[56]
-re	refactive	[16]
-rea	reactive (responding)	[47]
-real	rls, rl, r	realis mood	[8][48][80][54]
-rec	rct, r	recent, recent past (rec.pst, rec.p recent past tense, r.prf recent perfect)	[8][19][35][7]
-rec	receptive	[69]
-recp	rcp, recip, recipr, rec	reciprocal voice	[2][42][36][60]
-red, rdp, redup, rdpl, dup[citation needed]	reduplication, reduplicant (avoid if possible; instead gloss with meaning of reduplicated element)	[58][22][23][80]
-ref	rfr	referential, referentive	[40][73][20][50]
-refl	rfl, rflx, reflx, ref, rflex, rx, r	reflexive (reflexive pronoun/possessive, reflexive voice; 'r' used with person-number-gender)	[2][65][64][89][53][31][4][55][47]
-reg		regal (e.g. pronouns)	[37]
-reg	regularity	[47]
-regr	reg	regressive	[1][37]
-rel	r	(a) relative clause marker (relz relativizer);
-(b) relative pronoun affix;
-(c) relational (rel.cl relational classifier)
-(d) relative case (possessor + A role)
-(e) e.g. past.rel relative past	[2][15][26][45][1][19][4][35]
-rel.fut	relative future	[88]
-relev	relevance	[88]
-rem	rm, rmt	remote: rem.pst or rem.p or remp remote past tense, rem.fut or rem.f or remf remote future tense; also rem remote past tense	[58][8][21][40][18][1][35]
-rep	repet, rpt	(a) repetitive aspect (cf iter)
-(b) repetitive numeral
-(c) repeated word in repetition	[8][33][16][17][1][86]
-res	resu, result	resultative (res.n resultative noun)	[2][117][78][17]
-res	resignative	[21]
-resid	residue class	[91]
-return	returnative	[6]
-rev	revisionary	[1]
-rf	referential-focus	[71]
-rln	relational	[20]
-rsm, res[citation needed]	resumptive marker, resumptive pronoun	[54]
-resp		respect	[58]
-resp	responsive	[88]
-ret	retro	retrospective (recollection; synonym for 'perfect' in some traditions) (pretro past retrospective)	[94][7]
-rev		reversative, reversive	[25][100][6]
-rev	reverential	[21]
-r/m	reflexive/middle voice	[37]
-rm	relative marker	[78]
-rnr	result nominalizer	[19]
-root	r, $	(empty tag to mark second element of a divided root)	[2][16][28]
-roy		royal (e.g. pronouns)	[37]
-rp	(a) recent past, = rec.pst
-(b) remote past, = rem.pst	[38][27]
-rp	reflexive-possessive	[21]
-rpc	remote past continuous	[53]
-rpi	remote past inferred	[50]
-rpr	remote past reported	[50]
-rpst	remote past	[91]
-rpt	rprt, rep, rpr, revid	reported evidential (= hsy); reportative	[32][8][33][88][67][19][50][47][21][7]
-rpv	remote past visual	[50]
-rq	rhet, rqt	rhetorical question	[16][25][81][47]
-rr, r	reflexive/reciprocal	[76][67]
-rsn	reason	[64]
-rst	rest, res, rstr	restrictive (restrictive numeral, adverbial)	[69][115][10][7][34]
-rt	roundtrip	[6]
-rv[citation needed]	rf	reason voice/focus/trigger	[7]
--s	subjective (abls subjective ablative, evits subjective evitative), 3fs 3f subject	[42][37]
-sa	speaker authority (cf. aa)	[21]
-saa	speaker-addressee authority	[21]
-sal	salient	[25]
-sap		speech-act participant (cf. msap	[28]
-sbel	subel	subelative case ('from under')	[12]
-sben	self-benefactive	[62]
-sbess	sube cn?, subess	subessive case ('under')</p>
-<p>smbl	sembl	semblative	[23][65][42]
-smi	semeliterative	[1]
-smr	same reference	[1]
-so	same object	[1]
-soc		(a) sociative case (socialis); (b) sociative causative	[55][78][115]
-sp	spc, spec, spcf, specfc	specific, specifying (nsp, nspc, nspec nonspecific: cf. also nsp entry)	[8][86][38][61][71][28]
-sp	sentence particle (= fp). See usage note at particle and fp.	[89][86]
-sp	simple past,[citation needed] perfective past	[80]
-sp	subject prefix	[6]
-sp	speaker: sp.prox speaker-proximate, dem.sp demontrative near speaker	[23][16]
-spat	spatial	[92]
-specfr	spec	specifier	[33][38]
-specl	spec	speculative mood	[19][33]
-spkr		speaker-anchored, speaker perspective	[62][21]
-spl	spotlighting	[47]
-sr	(a) same referent, (b) switch reference	[23][69]
-src, so	source	[50][55]
-srp	self-reporting pronoun	[97]
-ss	sa	same-subject/actor/argument marker (cf se)	[58][8][40][25]
-sso	same-subject overlap ('while')	[31]
-sss	same-subject succession ('then')	[31]
-sss	simultaneous event, same subject (sssi of intransitive clause, ssst of transitive clause)	[19]
-stat	stv, st, sta, stt	stative aspect, stative verb	[8][15][81][47]
-stem	st, $	(empty tag to mark second element of a divided stem)	[2][79][28]
-stim	stimulative	[38]
-str	strong	[1]
-sub		sublocative (under). May be equivalent to subess or subl. Compounded for sube(ss) (sbess), subl(at) (sbdir), subel (sbel) etc. if a single morpheme, as sub-ess, sub-lat or sub-dir, sub-ela etc. if not.	[41][16][3][12]
-subl	sbdir, sublat, subdir	sublative case ('down under'), also 'subdirective'	[77][12][17]
-subr	sub, subord, sbrd, sr	subordinator ('that'), subordinate	[33][19][58][20][8][64][50]
-subs	subsequent	[6][95]
-subsec	subsecutive mood	[78]
-subst	substitutive	[16]
-subz,[citation needed] sbst	substantivizer (= nominalizer)	[56][26]
-suc	successive ('then')	[7]
-sug	suggestive mood	[78]
-sup		supine	[33]
-sup	[dbl check next]	superlative (most: cf. super-lative, super-essive)	[8]
-sup, supl cn?, suppl	supplicative, supplication	[33][6]
-supel	srel, superel	superelative case ('from on top of', 'from above')	[56][12]
-super	sup-, spr	superlocative. May be equivalent to superess or superl. Compounded for supere(ss) (supess), superl(at) (supdir), superel (supel), superabl etc. if a single morpheme, as super-ess, super-lat or super-dir, super-ela etc. if not.	[41][16][3][12][74]
-supess	sup, supe cn?, sress, spress, super, superess cn?	superessive case ('above'; 'on')	[8][33][30][12][16][28]
-supl	suplat, supdir, srdir, spr	super-lative, superdirective ('to above')	[8][33][12][77][60][17]
-supp	psup, presupp	(pre)suppositive, presumptive, suppositional, presupposition	[19][21][78][24]
-surp	surprise	[81]
-svc	serial verb construction	[114]
-sw	switch	[69]
-sym	symmetric	[21]
--t		trigger (used for at, pt, gt etc.) [old fashioned; 'voice' is now standard]	[82]
--t	thematic (tamt thematic tense-aspect-mood, antt thematic antecedent, etc.)	[42]
-t, tmp	temporal	[19][6]
-ta	t/a	tense/aspect	[15][65][56]
-tag		tag question	[16][7]
-tam	tma	tense–aspect–mood	[15][79][86]
-tel		(a) telic aspect (cf pfv) (a:tel anticipatory telic, c:tel culminatory telic)
-(b) contrastive emphasis	[123][54][23][1]
-temp	tem	temporal case; temporal converb	[33][77][98]
-temp	temporarily	[6]
-tens	number of tens (in a numeral)
-tent		tentative	[56][50]
-ter	term, termin	terminative ~ terminalis ('up to') (case, aspect)	[33][77][78]
-term	non-subject	[19]
-th, thm, them, themat	thematic element (e.g. thematic consonant, suffix); theme	[15][42][16][98][114][24][36]
-tj	trajector	[53]
-tkn		teknonym	[47]
-tm-	tense marker: tmhrs, tmdays, tmyrs for events hours, days, years ago	[37]
-tnd	tendency	[47]
-tns	t, tens, ts	tense
-Lehmann (2004) recommends avoiding this and specifying the tense.[8]	[33][65][23][19]
-top	tp, tpc	topic marker (topp topical patientive)	[2][40][22][54]
-topz, topr	topicalizer	[60]
-tot		totalitative, totality	[15][25]
-tr	trans, trns	transitive verb (trz, trr transitivizer); transitive case (rare)	[2][60][50]
-tr	transitional sound	[54]
-tr	trajector	[36]
-transf, trnsf	transformative ('becoming', dynamic equiv. of essive)	[22][8]
-transp	(transposition of deictic zero away from ego, e.g. 'uphill' from an object rather than from the speaker)	[124]
-transl	tra, tral, trans, trnsl, translv cn?, translat, trltranslative, tsltranslocative	(a) translative case (becoming, into);
-(b) translocative (across; may be compounded for e.g. ant-trans pass in front of, post-trans pass behind, sub-trans pass under)	[8][33][64][77][16][3][30][6]
-tri	trl, tr	trial number	[35][8][4]
-trip	retriplication [note: usually best to gloss with the meaning and ⟨~⟩]	[125]
-trm	transmutative	[64]
-trn		transnumeral (neither sg nor pl)	[54][18]
-trposs	transfer of possession	[22]
-trz	tz	transitivizer	[80][18]
-ts	(a) thematic suffix; (b) tense	[16][19]
-tv	thematic vowel	[80][32]
-tvf		truth-value focus	[73]
-u	uninflected (aux.u uninflected auxiliary)	[89]
-ua	unit augmented	[23]
-uc	upcoast	[citation needed]
-uf	uncertain future	[97]
-ugr, ug, und, u cn?	undergoer role (cf pat)	[8][40][65][2][99][69]
-uh	uphill, inland (= afw. cf ur.)	[citation needed]
-ul	upper level (spatial deixis)	[91]
-uncert	uncertain mood	[78]
-unif	unified	[4]
-unsp	unspec	unspecified (person, tense)	[15][8][54][23]
-unw	'unwillingness' marker	[79]
-up	upward	[7]
-ur		upriver (cf uh away from the water)	[73]
-usit	usitative, for usual, customary or typical events	[65][53]
-util		utilitive	[42]
-uv	uf	undergoer voice/focus/trigger (= { pv + lv + cv })	[81][126]
-uv	uncertain visual	[21]
-uwpst	unwitnessed past	[98]
-v	viewer	[36]
--v		trigger (used for av, pv, lv, cv etc.)	[citation needed]
-va	verbal adjective	[19]
-val		valency-increasing; valence marker	[15][28]
-val	validator	[78][32]
-vb	V	verbal (as a gloss in vbz, vz verbalizer, vpl verbal plural = plur, vcl verb class, vd verbal dative, vall verbal allative, etc.)	[33][8][72][115][24]
-vbz	vblz, vblzr, verb, verbl, vbzr, vlz, vr, vz	verbalizer	[1][118][6][63][8][80][60][7][50][32]
-vcl	verb class marker / classifier	[23]
-vco	voluntary comitative</p>
+The earliest instance of a commercial blog was on the first business to consumer Web site created in 1995 by Ty, Inc., which featured a blog in a section called "Online Diary". The entries were maintained by featured Beanie Babies that were voted for monthly by Web site visitors.[16]
+
+The modern blog evolved from the online diary where people would keep a running account of the events in their personal lives. Most such writers called themselves diarists, journalists, or journalers. Justin Hall, who began personal blogging in 1994 while a student at Swarthmore College, is generally recognized as one of the earlier bloggers,[17] as is Jerry Pournelle.[18] Dave Winer's Scripting News is also credited with being one of the older and longer running weblogs.[19][20] The Australian Netguide magazine maintained the Daily Net News[21] on their web site from 1996. Daily Net News ran links and daily reviews of new websites, mostly in Australia.
+
+Another early blog was Wearable Wireless Webcam, an online shared diary of a person's personal life combining text, digital video, and digital pictures transmitted live from a wearable computer and EyeTap device to a web site in 1994. This practice of semi-automated blogging with live video together with text was referred to as sousveillance, and such journals were also used as evidence in legal matters. Some early bloggers, such as The Misanthropic Bitch, who began in 1997, actually referred to their online presence as a zine, before the term blog entered common usage.
+
+Technology
+Early blogs were simply manually updated components of common Websites. In 1995, the "Online Diary" on the Ty, Inc. Web site was produced and updated manually before any blogging programs were available. Posts were made to appear in reverse chronological order by manually updating text based HTML code using FTP software in real time several times a day. To users, this offered the appearance of a live diary that contained multiple new entries per day. At the beginning of each new day, new diary entries were manually coded into a new HTML file, and the start of each month, diary entries were archived into its own folder which contained a separate HTML page for every day of the month. Then menus that contained links to the most recent diary entry were updated manually throughout the site. This text-based method of organizing thousands of files served as a springboard to define future blogging styles that were captured by blogging software developed years later.[16]
+
+The evolution of electronic and software tools to facilitate the production and maintenance of Web articles posted in reverse chronological order made the publishing process feasible to a much larger and less technically-inclined population. Ultimately, this resulted in the distinct class of online publishing that produces blogs we recognize today. For instance, the use of some sort of browser-based software is now a typical aspect of "blogging". Blogs can be hosted by dedicated blog hosting services, on regular web hosting services, or run using blog software.
+
+Rise in popularity
+After a slow start, blogging rapidly gained in popularity. Blog usage spread during 1999 and the years following, being further popularized by the near-simultaneous arrival of the first hosted blog tools:
+
+</p>
+<p>An early milestone in the rise in importance of blogs came in 2002, when many bloggers focused on comments by U.S. Senate Majority Leader Trent Lott.[23] Senator Lott, at a party honoring U.S. Senator Strom Thurmond, praised Senator Thurmond by suggesting that the United States would have been better off had Thurmond been elected president. Lott's critics saw these comments as a tacit approval of racial segregation, a policy advocated by Thurmond's 1948 presidential campaign. This view was reinforced by documents and recorded interviews dug up by bloggers. (See Josh Marshall's Talking Points Memo.) Though Lott's comments were made at a public event attended by the media, no major media organizations reported on his controversial comments until after blogs broke the story. Blogging helped to create a political crisis that forced Lott to step down as majority leader.
+
+Similarly, blogs were among the driving forces behind the "Rathergate" scandal. To wit: (television journalist) Dan Rather presented documents (on the CBS show 60 Minutes) that conflicted with accepted accounts of President Bush's military service record. Bloggers declared the documents to be forgeries and presented evidence and arguments in support of that view. Consequently, CBS apologized for what it said were inadequate reporting techniques (see Little Green Footballs). Many bloggers view this scandal as the advent of blogs' acceptance by the mass media, both as a news source and opinion and as means of applying political pressure.[original research?] The impact of these stories gave greater credibility to blogs as a medium of news dissemination. Though often seen as partisan gossips,[citation needed] bloggers sometimes lead the way in bringing key information to public light, with mainstream media having to follow their lead. More often, however, news blogs tend to react to material already published by the mainstream media. Meanwhile, an increasing number of experts blogged, making blogs a source of in-depth analysis.[original research?]
+
+In Russia, some political bloggers have started to challenge the dominance of official, overwhelmingly pro-government media. Bloggers such as Rustem Adagamov and Alexei Navalny have many followers and the latter's nickname for the ruling United Russia party as the "party of crooks and thieves" has been adopted by anti-regime protesters.[24] This led to The Wall Street Journal calling Navalny "the man Vladimir Putin fears most" in March 2012.[25]
+
+Mainstream popularity
+By 2004, the role of blogs became increasingly mainstream, as political consultants, news services, and candidates began using them as tools for outreach and opinion forming. Blogging was established by politicians and political candidates to express opinions on war and other issues and cemented blogs' role as a news source. (See Howard Dean and Wesley Clark.) Even politicians not actively campaigning, such as the UK's Labour Party's Member of Parliament (MP) Tom Watson, began to blog to bond with constituents. In January 2005, Fortune magazine listed eight bloggers whom business people "could not ignore": Peter Rojas, Xeni Jardin, Ben Trott, Mena Trott, Jonathan Schwartz, Jason Goldman, Robert Scoble, and Jason Calacanis.[26]
+
+Israel was among the first national governments to set up an official blog.[27] Under David Saranga, the Israeli Ministry of Foreign Affairs became active in adopting Web 2.0 initiatives, including an official video blog[27] and a political blog.[28] The Foreign Ministry also held a microblogging press conference via Twitter about its war with Hamas, with Saranga answering questions from the public in common text-messaging abbreviations during a live worldwide press conference.[29] The questions and answers were later posted on IsraelPolitik, the country's official political blog.[30]
+
+The impact of blogging upon the mainstream media has also been acknowledged by governments. In 2009, the presence of the American journalism industry had declined to the point that several newspaper corporations were filing for bankruptcy, resulting in less direct competition between newspapers within the same circulation area. Discussion emerged as to whether the newspaper industry would benefit from a stimulus package by the federal government. U.S. President Barack Obama acknowledged the emerging influence of blogging upon society by saying "if the direction of the news is all blogosphere, all opinions, with no serious fact-checking, no serious attempts to put stories in context, then what you will end up getting is people shouting at each other across the void but not a lot of mutual understanding".[31] Between 2009 and 2012, an Orwell Prize for blogging was awarded.
+
+Types
+
+A screenshot from the BlogActive website.
+There are many different types of blogs, differing not only in the type of content, but also in the way that content is delivered or written.
+
+Personal blogs
+The personal blog is an ongoing online diary or commentary written by an individual, rather than a corporation or organization. While the vast majority of personal blogs attract very few readers, other than the blogger's immediate family and friends, a small number of personal blogs have become popular, to the point that they have attracted lucrative advertising sponsorship. A tiny number of personal bloggers have become famous, both in the online community and in the real world.
+Collaborative blogs or group blogs
+A type of weblog in which posts are written and published by more than one author. The majority of high-profile collaborative blogs are organised according to a single uniting theme, such as politics, technology or advocacy. In recent years, the blogosphere has seen the emergence and growing popularity of more collaborative efforts, often set up by already established bloggers wishing to pool time and resources, both to reduce the pressure of maintaining a popular website and to attract a larger readership.
+Microblogging
+Microblogging is the practice of posting small pieces of digital content—which could be text, pictures, links, short videos, or other media—on the Internet. Microblogging offers a portable communication mode that feels organic and spontaneous to many users. It has captured the public imagination, in part because the short posts are easy to read on the go or when waiting. Friends use it to keep in touch, business associates use it to coordinate meetings or share useful resources, and celebrities and politicians (or their publicists) microblog about concert dates, lectures, book releases, or tour schedules. A wide and growing range of add-on tools enables sophisticated updates and interaction with other applications. The resulting profusion of functionality is helping to define new possibilities for this type of communication.[32] Examples of these include Twitter, Facebook, Tumblr and, by far the largest, WeiBo.</p>
+<p>Blurring with the mass media
+Many bloggers, particularly those engaged in participatory journalism, are amateur journalists, and thus they differentiate themselves from the professional reporters and editors who work in mainstream media organizations. Other bloggers are media professionals who are publishing online, rather than via a TV station or newspaper, either as an add-on to a traditional media presence (e.g., hosting a radio show or writing a column in a paper newspaper), or as their sole journalistic output. Some institutions and organizations see blogging as a means of "getting around the filter" of media "gatekeepers" and pushing their messages directly to the public. Many mainstream journalists, meanwhile, write their own blogs—well over 300, according to CyberJournalist.net's J-blog list.[citation needed] The first known use of a blog on a news site was in August 1998, when Jonathan Dube of The Charlotte Observer published one chronicling Hurricane Bonnie.[45]
+
+Some bloggers have moved over to other media. The following bloggers (and others) have appeared on radio and television: Duncan Black (known widely by his pseudonym, Atrios), Glenn Reynolds (Instapundit), Markos Moulitsas Zúniga (Daily Kos), Alex Steffen (Worldchanging), Ana Marie Cox (Wonkette), Nate Silver (FiveThirtyEight.com), and Ezra Klein (Ezra Klein blog in The American Prospect, now in The Washington Post''). In counterpoint, Hugh Hewitt exemplifies a mass media personality who has moved in the other direction, adding to his reach in "old media" by being an influential blogger. Similarly, it was Emergency Preparedness and Safety Tips On Air and Online blog articles that captured Surgeon General of the United States Richard Carmona's attention and earned his kudos for the associated broadcasts by talk show host Lisa Tolliver and Westchester Emergency Volunteer Reserves-Medical Reserve Corps Director Marianne Partridge.[46][47]
+
+Blogs have also had an influence on minority languages, bringing together scattered speakers and learners; this is particularly so with blogs in Gaelic languages. Minority language publishing (which may lack economic feasibility) can find its audience through inexpensive blogging. There are examples of bloggers who have published books based on their blogs, e.g., Salam Pax, Ellen Simonetti, Jessica Cutler, ScrappleFace. Blog-based books have been given the name blook. A prize for the best blog-based book was initiated in 2005,[48] the Lulu Blooker Prize.[49] However, success has been elusive offline, with many of these books not selling as well as their blogs. The book based on Julie Powell's blog "The Julie/Julia Project" was made into the film Julie & Julia, apparently the first to do so.
+
+Consumer-generated advertising
+Consumer-generated advertising is a relatively new and controversial development, and it has created a new model of marketing communication from businesses to consumers. Among the various forms of advertising on blog, the most controversial are the sponsored posts.[50] These are blog entries or posts and may be in the form of feedback, reviews, opinion, videos, etc. and usually contain a link back to the desired site using a keyword or several keywords. Blogs have led to some disintermediation and a breakdown of the traditional advertising model, where companies can skip over the advertising agencies (previously the only interface with the customer) and contact the customers directly via social media websites. On the other hand, new companies specialised in blog advertising have been established, to take advantage of this new development as well. However, there are many people who look negatively on this new development. Some believe that any form of commercial activity on blogs will destroy the blogosphere's credibility.[51]
+
+Legal and social consequences
+Blogging can result in a range of legal liabilities and other unforeseen consequences.[52]
+
+Defamation or liability
+Several cases have been brought before the national courts against bloggers concerning issues of defamation or liability. U.S. payouts related to blogging totaled $17.4 million by 2009; in some cases these have been covered by umbrella insurance.[53] The courts have returned with mixed verdicts. Internet Service Providers (ISPs), in general, are immune from liability for information that originates with third parties (U.S. Communications Decency Act and the EU Directive 2000/31/EC). In Doe v. Cahill, the Delaware Supreme Court held that stringent standards had to be met to unmask the anonymous bloggers, and also took the unusual step of dismissing the libel case itself (as unfounded under American libel law) rather than referring it back to the trial court for reconsideration.[54] In a bizarre twist, the Cahills were able to obtain the identity of John Doe, who turned out to be the person they suspected: the town's mayor, Councilman Cahill's political rival. The Cahills amended their original complaint, and the mayor settled the case rather than going to trial.
+
+In January 2007, two prominent Malaysian political bloggers, Jeff Ooi and Ahirudin Attan, were sued by a pro-government newspaper, The New Straits Times Press (Malaysia) Berhad, Kalimullah bin Masheerul Hassan, Hishamuddin bin Aun and Brenden John a/l John Pereira over an alleged defamation. The plaintiff was supported by the Malaysian government.[55] Following the suit, the Malaysian government proposed to "register" all bloggers in Malaysia to better control parties against their interest.[56] This is the first such legal case against bloggers in the country. In the United States, blogger Aaron Wall was sued by Traffic Power for defamation and publication of trade secrets in 2005.[57] According to Wired magazine, Traffic Power had been "banned from Google for allegedly rigging search engine results."[58] Wall and other "white hat" search engine optimization consultants had exposed Traffic Power in what they claim was an effort to protect the public. The case was dismissed for lack of personal jurisdiction, and Traffic Power failed to appeal within the allowed time.[59]
+
+In 2009, NDTV issued a legal notice to Indian blogger Kunte for a blog post criticizing their coverage of the Mumbai attacks.[60] The blogger unconditionally withdrew his post, which resulted in several Indian bloggers criticizing NDTV for trying to silence critics.[61]
+
+Employment
+Employees who blog about elements of their place of employment can begin to affect the reputation of their employer, either in a positive way, if the employee is praising the employer and its workplaces, or in a negative way, if the blogger is making negative comments about the company or its practices.
+
+In general, attempts by employee bloggers to protect themselves by maintaining anonymity have proved ineffective.[62] In 2009, a controversial and landmark decision by The Hon. Mr Justice Eady refused to grant an order to protect the anonymity of Richard Horton. Horton was a police officer in the United Kingdom who blogged about his job under the name "NightJack".[63]
+
+Delta Air Lines fired flight attendant Ellen Simonetti because she posted photographs of herself in uniform on an airplane and because of comments posted on her blog "Queen of Sky: Diary of a Flight Attendant" which the employer deemed inappropriate.[64][65] This case highlighted the issue of personal blogging and freedom of expression versus employer rights and responsibilities, and so it received wide media attention. Simonetti took legal action against the airline for "wrongful termination, defamation of character and lost future wages".[66] The suit was postponed while Delta was in bankruptcy proceedings.[67]
+
+In early 2006, Erik Ringmar, a senior lecturer at the London School of Economics, was ordered by the convenor of his department to "take down and destroy" his blog in which he discussed the quality of education at the school.[68]
+
+Mark Jen was terminated in 2005 after 10 days of employment as an assistant product manager at Google for discussing corporate secrets on his personal blog, then called 99zeros and hosted on the Google-owned Blogger service.[69] He blogged about unreleased products and company finances a week before the company's earnings announcement. He was fired two days after he complied with his employer's request to remove the</p>
     </div>
   );
 }
