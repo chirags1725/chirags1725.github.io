@@ -1,15 +1,100 @@
-import AdUnit from "./AdUnit";
+import React, { Component } from 'react';
+import AdUnit from './AdUnit.js';
 
-export default function Ads(){
-    return(
-        <>
-        <AdUnit></AdUnit>
-        <AdUnit></AdUnit>
-        <AdUnit></AdUnit>
-        <AdUnit></AdUnit>
-        <AdUnit></AdUnit>
-        <AdUnit></AdUnit>
-        <AdUnit></AdUnit>
-        </>
-    )
+
+class Ads extends Component {
+  render() {
+    return (
+      <div>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+          <AdUnit></AdUnit>
+      
+      </div>
+    );
+  }
 }
+
+export default Ads;

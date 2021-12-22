@@ -9,7 +9,7 @@ class AdUnit extends Component {
     return (
       <div>
         <ins
-          class="adsbygoogle"
+          className="adsbygoogle"
           style = { {display:"block"} }
           data-ad-format="fluid"
           data-ad-layout-key="-f9+52+6z-e1+5b"
