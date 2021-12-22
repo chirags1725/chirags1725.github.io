@@ -1,5 +1,15 @@
+import AdUnit from "./AdUnit";
+
 export default function Ads(){
     return(
-        'ads here'
+        <>
+        <AdUnit></AdUnit>
+        <AdUnit></AdUnit>
+        <AdUnit></AdUnit>
+        <AdUnit></AdUnit>
+        <AdUnit></AdUnit>
+        <AdUnit></AdUnit>
+        <AdUnit></AdUnit>
+        </>
     )
 }
