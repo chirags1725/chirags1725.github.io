@@ -24,7 +24,7 @@ export default function Home() {
         <span className="Title">{Title}</span>
       </div>
       {BlogData.map((e) => {
-    return <BlogsUI Title={e.id} desc={e.desc}/>;
+    return <BlogsUI Title={e.id} desc={e.desc} key={e.id}/>;
     
 })}
 

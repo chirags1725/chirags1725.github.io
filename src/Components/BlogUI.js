@@ -5,12 +5,16 @@ import AdUnit from "./AdUnit.js";
 
 export default function BlogsUI(props) {
 
+  function ads(){
+  if(props.Title % 5 === 0){
+    return <AdUnit></AdUnit>
+  }}
 
   return (
     <>
       <div className="Blog-Container">
         <div className="image">
-          <Slide left delay={10}>
+          <Slide delay={10}>
             <img
               alt=""
               className="BlogImage"
@@ -25,6 +29,7 @@ export default function BlogsUI(props) {
           </Slide>
         </div>
       </div>
+      {ads()}
       
     </>
   );

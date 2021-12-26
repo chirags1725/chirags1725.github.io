@@ -15,12 +15,11 @@
   border-radius: 20px;
 }
 body {
-  min-height: 400vh;
+  /* overflow-x: hidden; */
+  /* min-height: 400vh; */
   box-sizing: border-box;
   scroll-snap-type: y mandatory;
   margin-top: calc(80vh + 40px);
-  overflow-x: hidden;
-
 }
 .navbar {
   position: fixed;
@@ -49,7 +48,7 @@ body {
   }
 }
 .navbar .quote {
-  /*flex-wrap: nowrap;*/
+  /* flex-wrap: nowrap; */
   position: absolute;
   top: 0px;
   left: 50%;
@@ -79,7 +78,7 @@ body {
   /*background: red;*/
   padding: 18px;
   padding-right: 0px;
-  padding-left: 0px;
+  padding-left:0px;
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0px 0px 26px -20px white;;
@@ -115,8 +114,8 @@ body {
   transform: none;
 }
 .navbar.change .quote {
-  top: 1600px;
-  transform: scale(0);
+  top: -100vh;
+  /* transform: scale(0); */
 }
 .bg-1 {
   position: fixed;
@@ -238,4 +237,34 @@ body {
 {
   font-weight: 400;
   font-size: 16px;
+}
+@media (max-width: 815px) {
+  .navbar .links ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 18px;
+    font-size: 1em;
+    letter-spacing: 0.2px;
+    /* line-height: 16px; */
+    background: rgba(0, 0, 0, 0.1);
+    padding-right:10px;
+    padding-left: 10px;
+    outline: none;
+    font-weight: 500;
+  }
+}
+@media (max-width: 610px) {
+  .navbar .links ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 18px;
+    font-size: .9em;
+    letter-spacing: 0.2px;
+    /* line-height: 16px; */
+    background: rgba(0, 0, 0, 0.1);
+    padding-right:8px;
+    padding-left: 8px;
+    outline: none;
+    font-weight: 500;
+  }
 }
