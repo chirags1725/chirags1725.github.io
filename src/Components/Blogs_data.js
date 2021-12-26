@@ -1,0 +1,38 @@
+const BlogData = [{
+    id:1,
+    desc:'blog1'
+},{
+    id:2,
+    desc:'blog2'
+},{
+    id:3,
+    desc:'blog3'
+},{
+    id:4,
+    desc:'blog4'
+},{
+    id:5,
+    desc:'blog5'
+},{
+    id:6,
+    desc:'blog6'
+},{
+    id:7,
+    desc:'blog6'
+},{
+    id:8,
+    desc:'blog6'
+},{
+    id:9,
+    desc:'blog6'
+},{
+    id:10,
+    desc:'blog6'
+},{
+    id:11,
+    desc:'blog6'
+},{
+    id:12,
+    desc:'blog6'
+}]
+export default BlogData;

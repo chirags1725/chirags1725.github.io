@@ -12,6 +12,7 @@ export default function Navbar(props) {
       setChange("navbar");
     }
   });
+
   return (
     <>
       <div className={Change}>

@@ -6,6 +6,8 @@ export default function Contact() {
       <div className="PageTitle">
         <span className="Title">Contact Me</span>
       </div>
+
+      
     </>
   );
 }

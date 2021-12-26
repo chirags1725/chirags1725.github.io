@@ -1,20 +1,21 @@
 import { useState } from "react";
-import "./app-debug.apk";
-import logo from "./Image/2.jpg";
-import { Slide } from "react-awesome-reveal";
-import AdUnit from "./AdUnit.js";
+// import logo from "./Image/2.jpg";
+// import AdUnit from "./AdUnit.js";
+import BlogsUI from "./BlogUI";
+import BlogData from "./Blogs_data";
 
 export default function Home() {
   const [Title, setTitle] = useState("Home");
 
   window.addEventListener("scroll", () => {
     if (window.scrollY > 15) {
-      setTitle("About the Author");
+      setTitle("Latest Blog Articles");
     } else {
       setTitle("Home");
     }
   });
 
+  
   return (
     <div className="start">
       <div className={`bg-1`}></div>
@@ -22,8 +23,14 @@ export default function Home() {
       <div className="PageTitle">
         <span className="Title">{Title}</span>
       </div>
-      <div className="abt">
-        <Slide left delay={1000}>
+      {BlogData.map((e) => {
+    return <BlogsUI Title={e.id} desc={e.desc}/>;
+    
+})}
+
+      {/* <div className="abt"> */}
+
+      {/* <Slide left delay={1000}>
           <img src={logo} className="Author" alt="logo" width="100px" />
         </Slide>
 
@@ -61,8 +68,8 @@ export default function Home() {
             configuration whereas '(+)' represents dextrorotatory nature of the
             molecule.
           </div>
-        </Slide>
-      </div>
+        </Slide> */}
+      {/* </div> */}
     </div>
   );
 }
