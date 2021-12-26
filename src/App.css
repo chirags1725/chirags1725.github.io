@@ -107,6 +107,8 @@ body {
   height: calc(36px + 16px);
   background-position: center;
   background-attachment: fixed;
+  z-index: 100000000000000000000000000000000000000000000000000;
+
 }
 .navbar.change .links {
   bottom: 0px;
