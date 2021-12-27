@@ -19,6 +19,7 @@ body {
   /* min-height: 400vh; */
   box-sizing: border-box;
   scroll-snap-type: y mandatory;
+
   margin-top: calc(80vh + 40px);
 }
 .navbar {
@@ -34,7 +35,7 @@ body {
   /*scroll-snap-align: start;*/
   background-attachment: fixed;
   /* animation: navbar 60s linear infinite; */
-  z-index: 100000000000000000000000000000000000000000000000000;
+  z-index: 1000;
 }
 @keyframes navbar {
   0% {
@@ -70,7 +71,7 @@ body {
   height: calc(36px + 16px);
   background-position: center;
   background-attachment: fixed;
-  z-index: 100000000000000000000000000000000000000000000000000;
+  z-index: 1000;
 
 }
 .navbar.change .quote {
@@ -151,14 +152,14 @@ body {
   border-radius: 12px;
   margin-top: 6px;
   margin-bottom: 6px;
-  z-index: 1000;
+  z-index: 100;
   box-shadow: 10px 10px 12px -10px rgba(0, 0, 0, .2);
 }
 
 .Blog-Container .image
 {
   position: relative;
-  z-index: 10000;
+  z-index: 1000;
 }
 
 .Blog-Container .image .BlogImage
