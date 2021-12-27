@@ -34,7 +34,7 @@ body {
   transition: 0.8s;
   /*scroll-snap-align: start;*/
   background-attachment: fixed;
-  /* animation: navbar 60s linear infinite; */
+  animation: navbar 60s linear infinite;
   z-index: 1000;
 }
 @keyframes navbar {
@@ -72,7 +72,6 @@ body {
   background-position: center;
   background-attachment: fixed;
   z-index: 1000;
-
 }
 .navbar.change .quote {
   top: -100vh;
