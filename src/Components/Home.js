@@ -15,7 +15,6 @@ export default function Home() {
     }
   });
 
-  
   return (
     <div className="start">
       <div className={`bg-1`}></div>
@@ -24,9 +23,16 @@ export default function Home() {
         <span className="Title">{Title}</span>
       </div>
       {BlogData.map((e) => {
-    return <BlogsUI Title={e.id} desc={e.desc} key={e.id}/>;
-    
-})}
+        return (
+          <BlogsUI
+            Title={e.Title}
+            desc={e.desc}
+            key={e.id}
+            blogsNo={e.id}
+            Image={e.image}
+          />
+        );
+      })}
 
       {/* <div className="abt"> */}
 

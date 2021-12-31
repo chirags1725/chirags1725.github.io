@@ -36,22 +36,19 @@ export default function Navbar(props) {
         <div className="links">
           <ul>
             <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to="/portfolio">Portfolio</Link>
-          </li>
-          <li>
-            <Link to="/contact_me">Contact Me</Link>
-          </li>
-          <li>
-            <Link to="/ads">Ads</Link>
-          </li>
+              <Link to="/">Home</Link>
+            </li>
+            <li>
+              <Link to="/portfolio">Portfolio</Link>
+            </li>
+            <li>
+              <Link to="/contact_me">Contact Me</Link>
+            </li>
+            <li>
+              <Link to="/ads">Ads</Link>
+            </li>
           </ul>
         </div>
-
-        
-
       </div>
     </>
   );

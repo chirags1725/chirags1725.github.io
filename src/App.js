@@ -6,9 +6,7 @@ import Contact from "./Components/Contact";
 import Home from "./Components/Home";
 import Ads from "./Components/Ads";
 
-
 function App() {
-
   return (
     <>
       <Router>
@@ -28,7 +26,6 @@ function App() {
           </Route>
           <Route path="*">
             <div>404</div>
-            
           </Route>
         </Switch>
       </Router>
