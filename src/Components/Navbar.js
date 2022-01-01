@@ -50,6 +50,7 @@ export default function Navbar(props) {
           </ul>
         </div>
       </div>
+      <div className="scroll-button"><i className="fa-fa-up"></i></div>
     </>
   );
 }
