@@ -14,9 +14,7 @@ export default function BlogsUI(props) {
   } else {
     image = props.Image;
   }
-  console.log(props.Title + props.desc.split(" ").length);
 
-  console.log(5 * 75);
   return (
     <>
       <div className="Blog-Container">
