@@ -5,6 +5,7 @@ import Portfolio from "./Components/Portfolio";
 import Contact from "./Components/Contact";
 import Home from "./Components/Home";
 import Ads from "./Components/Ads";
+import Sitemap from "./Components/sitemap";
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
           <Route path="*">
             <div>404</div>
           </Route>
+          <Route path="/sitemap" component={Sitemap}/>
         </Switch>
       </Router>
     </>
