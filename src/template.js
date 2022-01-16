@@ -1,1 +1,0 @@
-<script>window.__STATE__</script>

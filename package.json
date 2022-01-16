@@ -4,12 +4,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/preset-env": "^7.16.8",
+    "@babel/preset-react": "^7.16.7",
+    "@babel/register": "^7.16.9",
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "express": "^4.17.2",
     "firebase": "^9.5.0",
     "gh-pages": "^3.2.3",
     "gsap": "^3.8.0",
+    "ignore-styles": "^5.0.1",
     "react": "^17.0.2",
     "react-adsense": "^0.1.0",
     "react-awesome-reveal": "^3.8.1",
@@ -55,7 +60,6 @@
   "bugs": {
     "url": "https://github.com/chirags1725/chirags1725.github.io/issues"
   },
-  "devDependencies": {},
   "keywords": [],
   "description": ""
 }
