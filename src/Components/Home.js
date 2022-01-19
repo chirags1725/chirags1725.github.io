@@ -17,7 +17,7 @@ export default function Home() {
 
   return (
     <div className="start">
-      <div className={`bg-1`}></div>
+      <div className={`bg-1`}>hi</div>
 
       <div className="PageTitle">
         <span className="Title">{Title}</span>

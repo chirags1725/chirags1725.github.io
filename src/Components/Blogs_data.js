@@ -44,7 +44,7 @@ const BlogData = [
   {
     id: 8,
     Title: "CSS Property - Mix-blend-mode",
-    desc: "This can be considered as an imae editing tool in css. It has many value such as mix-blend-mode: normal|multiply|screen|overlay|darken|lighten|color-dodge|color-burn|difference|exclusion|hue|saturation|color|luminosity;. It's syntax is as: (element){mix-blend-mode : 'value'}. And  its javascript syntax is: element.style.mixBlendMode = 'value'. It's default value is normal",
+    desc: "This can be considered as an image editing tool in css. It has many value such as mix-blend-mode: normal|multiply|screen|overlay|darken|lighten|color-dodge|color-burn|difference|exclusion|hue|saturation|color|luminosity;. It's syntax is as: (element){mix-blend-mode : 'value'}. And  its javascript syntax is: element.style.mixBlendMode = 'value'. It's default value is normal",
     image: "",
   },
   {
